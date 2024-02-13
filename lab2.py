@@ -10,3 +10,7 @@ def function():
     print("Script AND Variables:", script_name, variables)
 
 function()
+
+def helloWorld():
+	print('Hello World')
+helloWorld()
